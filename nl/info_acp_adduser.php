@@ -3,6 +3,7 @@
 * 
 * @copyright (c) 201 Rich McGirr
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
+* Dutch translation by Dutch Translators (https://github.com/dutch-translators)
 *
 */
 
@@ -36,8 +37,8 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	// ACP Module
-	'ACP_ADD_USER'				=> 'ACP Add User',
+	'ACP_ADD_USER'				=> 'ACP Gebruiker Toevoegen',
 
 	// ACP Logs
-	'LOG_USER_ADDED'			=> '<strong>New user created</strong><br />» %s',
+	'LOG_USER_ADDED'			=> '<strong>Nieuwe gebruiker aangemaakt</strong><br />» %s',
 ));

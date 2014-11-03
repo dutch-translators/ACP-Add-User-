@@ -1,22 +1,22 @@
-Subject: You have been added to "{SITENAME}"
+Subject: Je bent toegevoegd aan "{SITENAME}"
 
 {WELCOME_MSG}
 
-Please keep this email for your records. Your account information is as follows:
+Dit bericht bevat belangrijke accountinformatie, bewaar deze e-mail dus goed. Je accountinformatie is als volgt:
 
 ----------------------------
-Username: {USERNAME}
+Gebruikersnaam: {USERNAME}
 
-Board URL: {U_BOARD}
+Forum link: {U_BOARD}
 
-Password: {PASSWORD}
+Wachtwoord: {PASSWORD}
 ----------------------------
 
-Your account is currently inactive and will need to be approved by an administrator before you can log in. Another email will be sent when this has occurred.
+Op dit moment is je account nog inactief, je account moet worden goedkeurd door een beheerder voordat je jezelf kan aanmelden. Je ontvangt een e-mail zodra een beheerder je account heeft goedgekeurd.
 
-Your password has been securely stored in our database and cannot be retrieved. In the event that it is forgotten, you will be able to reset it using the email address associated with your account.
+Je wachtwoord is veilig opgeslagen in onze database en kan niet worden achterhaald. Mocht je toch je wachtwoord vergeten zijn, dan kan je een nieuw wachtwoord aanvragen door het e-mailadres te gebruiken dat overeenkomt met je account.
 
-We strongly recommend that you change your password once you log into the forum.
+Wij raden je sterk aan je wachtwoord te wijzigen nadat je bent ingelogd op het forum.
 
 
 {EMAIL_SIG}

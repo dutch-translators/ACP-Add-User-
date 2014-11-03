@@ -36,11 +36,11 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'ACP_ACCOUNT_ADDED'			=> 'Het gebruikersaccount is aangemaakt. The user may now login with the username and password sent to the email address you provided.',
-	'ACP_ACCOUNT_INACTIVE'		=> 'Het gebruikersaccount is aangemaakt. Echter, de foruminstellingen vereisen dat de gebruiker het account zelf activeert.<br />An activation key has been sent to the email address you provided for the user.',
-	'ACP_ACCOUNT_INACTIVE_ADMIN'=> 'Het gebruikersaccount is aangemaakt. Echter, de foruminstellingen vereisen dat het account wordt geactiveerd door een beheerder.<br />An email has been sent to the Administrators and the user will be informed when their account has been activated',
+	'ACP_ACCOUNT_ADDED'			=> 'Het gebruikersaccount is aangemaakt. De gebruiker kan zich nu aanmelden met de gebruikersnaam en wachtwoord dat verstuurd is naar het e-mailadres dat is opgegeven.',
+	'ACP_ACCOUNT_INACTIVE'		=> 'Het gebruikersaccount is aangemaakt. Echter, de foruminstellingen vereisen dat de gebruiker het account zelf activeert.<br />Een activatie sleutel is verstuurd naar het opgegeven e-mailadres.',
+	'ACP_ACCOUNT_INACTIVE_ADMIN'=> 'Het gebruikersaccount is aangemaakt. Echter, de foruminstellingen vereisen dat het account wordt geactiveerd door een beheerder.<br />Een e-mail is verstuurd naar de beheerders, de gebruiker zal geinformeerd worden wanneer hun account geactiveerd is',
 	'ACP_ADD_USER'				=> 'ACP Gebruiker Toevoegen',
-	'ACP_ADMIN_ACTIVATE'		=> 'An email will be dispatched to an Administrator for account activation, alternatively you may check the activate account box below to activate the account instantly once created. The user will receive an email containing account login details.',
+	'ACP_ADMIN_ACTIVATE'		=> 'Een e-mail zal worden verzonden naar een beheerder voor het account activatie, als alternatief kan je het activeer account vak aanvinken hieronder om het account direct te activeren nadat het account is aangemaakt. De gebruiker zal een e-mail ontvangen met daarin de account details.',
 	'ACP_EMAIL_ACTIVATE'		=> 'Wanneer het account is aangemaakt, zal de gebruiker een e-mail ontvangen met daarin een activatie link om de account te activeren.',
 	'ACP_INSTANT_ACTIVATE'		=> 'Het account zal meteen geactiveerd worden. De gebruiker zal een e-mail ontvangen met daarin zijn account details..',
 

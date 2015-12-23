@@ -7,5 +7,5 @@ Installatie
 ===========
 
 1. Download en pak het pakket uit
-2. Upload de map nl naar ext/rmcgirr83/adduser/language/
+2. Upload de map "nl" naar root/ext/phpbbmodders\adduser\language
 3. leeg de cache
